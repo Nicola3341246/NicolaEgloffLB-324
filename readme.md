@@ -2,6 +2,7 @@
 
 ## Wichtiges
 URL: [azurewebsites.net](nicolaeglofflbm324.azurewebsites.net) (Ich habe die F1-Serviceplan verwendet, es könnte einen kleinen Moment dauern.)
+
 Passwort: Sicherheit123
 
 ## Aufgabe 2
