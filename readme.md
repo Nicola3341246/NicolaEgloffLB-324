@@ -12,4 +12,3 @@ Ich habe das Passwort als eine Umgebungsvariable eingestellt. Diese Einstellung 
 ![grafik](https://github.com/Nicola3341246/NicolaEgloffLB-324/assets/89132258/0514d6cf-c2cd-4edc-a199-f575c1fa1eb3)
 
 Nachher muss man nur noch speichern und die Einstellung ist getätigt.
-
